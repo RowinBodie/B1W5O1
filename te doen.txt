@@ -1,0 +1,4 @@
+tip onderaan:
+de tip moet color code #def6ed 
+border-radius 4px
+mistens 25 rand van element van de paragraaf
