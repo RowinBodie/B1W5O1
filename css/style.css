@@ -27,6 +27,10 @@ div{
     margin-top: 20px;
 }
 .d{
+    display:block;
+    margin-top: 10px;
+}
+.f{
     display:inline-block;
     margin-top: 10px;
     margin-left: 20px;
